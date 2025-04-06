@@ -9,15 +9,12 @@ import {
   Alert,
   TouchableOpacity,
 } from 'react-native';
-import RNRestart from 'react-native-restart';
 export default function App() {
   const flipRTL = async () => {
     const isRTL = I18nManager.isRTL;
     try {
       I18nManager.forceRTL(!isRTL);
       Alert.alert('Direction Changed', 'Reloading the app...');
-      //   await Expo.reloadAppAsync();
-      RNRestart.restart();
     } catch (e) {
       console.log('Error flipping RTL:', e);
     }
