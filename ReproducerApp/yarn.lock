@@ -5483,11 +5483,6 @@ react-is@^19.0.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-19.1.0.tgz#805bce321546b7e14c084989c77022351bbdd11b"
   integrity sha512-Oe56aUPnkHyyDxxkvqtd7KkdQP5uIUfHxd5XTb3wE9d/kRnZLmKbDB0GWk919tdQ+mxxPtG6EAs6RMT6i1qtHg==
 
-react-native-restart@^0.0.27:
-  version "0.0.27"
-  resolved "https://registry.yarnpkg.com/react-native-restart/-/react-native-restart-0.0.27.tgz#43aa8210312c9dfa5ec7bd4b2f35238ad7972b19"
-  integrity sha512-8KScVICrXwcTSJ1rjWkqVTHyEKQIttm5AIMGSK1QG1+RS5owYlE4z/1DykOTdWfVl9l16FIk0w9Xzk9ZO6jxlA==
-
 react-native@0.78.2:
   version "0.78.2"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.78.2.tgz#e4c0abb209b569b789e46cf365b3d4484b26e280"
